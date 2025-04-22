@@ -1,0 +1,23 @@
+{
+  "name": "@kata/katattool",
+  "version": "1.0.0",
+  "description": "Kata Tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KataChannel/katattool.git"
+  },
+  "keywords": [
+    "Kata",
+    "Tool"
+  ],
+  "author": "Kata Offical",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KataChannel/katattool/issues"
+  },
+  "homepage": "https://github.com/KataChannel/katattool#readme"
+}
